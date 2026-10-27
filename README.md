@@ -129,7 +129,7 @@ Tri-state buffers are useful in:
 This project provides practical experience in RTL design, Verilog modeling, SystemVerilog testbench development, transaction-based verification, reference-model checking, scoreboard implementation, and waveform debugging.
 
 It establishes a foundation for further work in **VLSI design, RTL engineering, and functional verification**.
-
+Link: https://edaplayground.com/x/hpKd
 ## Author
 
 **Vishwak Sai**
